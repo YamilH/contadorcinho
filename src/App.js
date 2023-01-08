@@ -49,6 +49,7 @@ function App() {
           </div>
         </div>
       </div>
+      <div class="card-footer text-muted text-center"> <a class="card-footer text-muted text-center" href="https://github.com/YamilH">YamilH on GitHub</a></div>
     </div>
 
 );
